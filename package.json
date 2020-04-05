@@ -1,0 +1,19 @@
+{
+  "name": "onionengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -p ./tsconfig.json --watch --declaration"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergheiGurgruov/OnionEngine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergheiGurgruov/OnionEngine/issues"
+  },
+  "homepage": "https://github.com/SergheiGurgruov/OnionEngine#readme"
+}
