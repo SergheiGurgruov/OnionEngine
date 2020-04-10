@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc -p ./tsconfig.json --watch --declaration"
+    "start": "start ./index.html && tsc -p ./tsconfig.json --watch --declaration"
   },
   "repository": {
     "type": "git",
